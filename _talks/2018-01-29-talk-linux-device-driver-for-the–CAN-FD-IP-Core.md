@@ -1,4 +1,3 @@
-```
 ---
 title: "Linux Device Driver for the CAN-FD IP-Core "
 collection: talks
@@ -8,7 +7,4 @@ venue: "Dresden, Fraunhofer IPMS"
 date: 2018-01-29
 location: "Dresden, Germany"
 ---
-
-```
-
 This is a talk about the development of a socket-based CAN driver for the Fraunhofer CANFD IP-core (in German).

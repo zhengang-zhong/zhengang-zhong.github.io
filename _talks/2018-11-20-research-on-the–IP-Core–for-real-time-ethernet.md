@@ -9,8 +9,9 @@ date: 2018-11-20
 location: "Dresden, Germany"
 ---
 
-This is a talk about the research on the IP-Core for real-time ethernet leveraging a TSN testbed (in German).
 ```
+
+This is a talk about the research on the IP-Core for real-time ethernet leveraging a TSN testbed (in German).
 
 # Unetersuchung eines IP‐Cores für echtzeitiges Ethernet im Rahmen eines TSN‐Testbeds
 

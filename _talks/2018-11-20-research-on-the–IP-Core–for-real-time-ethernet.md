@@ -3,7 +3,7 @@ title: "Research on the IP-Core for real-time ethernet"
 collection: talks
 type: "Talk"
 permalink: /talks/2018-11-20-research-on-the–IP-Core–for-real-time-ethernet
-venue: "Dresden, Fraunhofer IPMS"
+venue: "Fraunhofer IPMS"
 date: 2018-11-20
 location: "Dresden, Germany"
 ---

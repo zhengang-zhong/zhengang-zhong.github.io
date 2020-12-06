@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This Zhengang (ʈʂən gaŋ) Zhong ( ʈʂʷuŋ)'s personal webpage.
+This is Zhengang Zhong's personal webpage.
 
 About me
 ------
-Welcome! I am a PhD student at Imperial College London in the lab of [Optimisation and Machine Learning for Process Engineering](https://www.imperial.ac.uk/a-z-research/optimisation-and-machine-learning-for-process-engineering/). I conduct my reserach on the data-driven optimal control under the supervision of [Antonio](https://www.imperial.ac.uk/people/a.del-rio-chanona) and [Panos](https://iris.ucl.ac.uk/iris/browse/profile?upi=PPETS09). I obtained my Diplom degree in Mechatronics from Technische Universität Dresden and my B. Eng. from Zhejiang University of Technology. I am a big fan of control theory and German beer.  
+Welcome! I am a PhD student at Imperial College London in the [Optimisation and Machine Learning for Process Engineering](https://www.imperial.ac.uk/a-z-research/optimisation-and-machine-learning-for-process-engineering/) lab. I conduct my reserach on the data-driven optimal control under the supervision of [Antonio del Rio Chanona](https://www.imperial.ac.uk/people/a.del-rio-chanona) and [Panagiotis Petsagkourakis](https://iris.ucl.ac.uk/iris/browse/profile?upi=PPETS09). I obtained my Diplom degree in Mechatronics from Technische Universität Dresden and my B. Eng. from Zhejiang University of Technology. I am a big fan of control theory and German beer.  
 
 ## About my research
 

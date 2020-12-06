@@ -3,7 +3,7 @@ title: "Linux Device Driver for the CAN-FD IP-Core "
 collection: talks
 type: "Talk"
 permalink: /talks/2018-01-29-talk-linux-device-driver-for-the–CAN-FD-IP-Core 
-venue: "Dresden, Fraunhofer IPMS"
+venue: "Fraunhofer IPMS"
 date: 2018-01-29
 location: "Dresden, Germany"
 ---

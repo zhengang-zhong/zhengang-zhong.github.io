@@ -3,7 +3,7 @@ title: "Presentation on the comparative study of MPC"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-06-17-comparative-study-on-mpc
-venue: "Dresden, TU Dresden"
+venue: "TU Dresden, RST"
 date: 2020-06-17
 location: "Dresden, Germany"
 ---

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Zhengang Zhong's personal webpage.
+This is Zhengang Zhong's personal webpage. My given name is pronounced like /**ZH**ən gang/ (ZH in deci**sion**).
 
 About me
 ------
